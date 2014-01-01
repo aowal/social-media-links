@@ -110,23 +110,23 @@ class Social_Media_Links_Widget extends WP_Widget {
 			),
 			'github' => array(
 				'label'   => __( 'GitHub URI', 'smlw' ),
-				'pattern' => '<li"><a href="%s" class="social-github"><span><i class="fa fa-github"></i></span> Github</a></li>',
+				'pattern' => '<li><a href="%s" class="social-github"><span><i class="fa fa-github"></i></span> Github</a></li>',
 			),
 			'gplus' => array(
 				'label'   => __( 'Google+ URI', 'smlw' ),
-				'pattern' => '<li"><a href="%s" class="social-gplus"><span><i class="fa fa-google-plus-square"></i></span> Google Plus</a></li>',
+				'pattern' => '<li><a href="%s" class="social-gplus"><span><i class="fa fa-google-plus-square"></i></span> Google Plus</a></li>',
 			),
 			'instagram' => array(
 				'label'   => __( 'Instagram URI', 'smlw' ),
-				'pattern' => '<li"><a href="%s" class="social-instagram"><span><i class="fa fa-instagram"></i></span> Instagram</a></li>',
+				'pattern' => '<li><a href="%s" class="social-instagram"><span><i class="fa fa-instagram"></i></span> Instagram</a></li>',
 			),
 			'linkedin' => array(
 				'label'   => __( 'Linkedin URI', 'smlw' ),
-				'pattern' => '<li"><a href="%s" class="social-linkedin"><span><i class="fa fa-linkedin"></i></span> Linkedin</a></li>',
+				'pattern' => '<li><a href="%s" class="social-linkedin"><span><i class="fa fa-linkedin"></i></span> Linkedin</a></li>',
 			),
 			'pinterest' => array(
 				'label'   => __( 'Pinterest URI', 'smlw' ),
-				'pattern' => '<li"><a href="%s" class="social-pinterest"><span><i class="fa fa-pinterest"></i></span> Pinterest</a></li>',
+				'pattern' => '<li><a href="%s" class="social-pinterest"><span><i class="fa fa-pinterest"></i></span> Pinterest</a></li>',
 			),
 			'rss' => array(
 				'label'   => __( 'RSS URI', 'smlw' ),
@@ -134,7 +134,7 @@ class Social_Media_Links_Widget extends WP_Widget {
 			),
 			'tumblr' => array(
 				'label'   => __( 'Tumblr URI', 'smlw' ),
-				'pattern' => '<li"><a href="%s" class="social-tumblr"><span><i class="fa fa-tumblr"></i></span> Tumblr</a></li>',
+				'pattern' => '<li><a href="%s" class="social-tumblr"><span><i class="fa fa-tumblr"></i></span> Tumblr</a></li>',
 			),
 			'twitter' => array(
 				'label'   => __( 'Twitter URI', 'smlw' ),
